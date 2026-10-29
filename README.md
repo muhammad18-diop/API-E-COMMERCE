@@ -30,7 +30,6 @@ Une API RESTful robuste et scalable pour la gestion d'une plateforme de commerce
 * **Base de données :** PostgreSQL
 * **Authentification :** JSON Web Token (JWT), Bcrypt
 * **Variables d'environnement :** dotenv
-* **Validation des données :** Express-validator / Joi
 
 ---
 
