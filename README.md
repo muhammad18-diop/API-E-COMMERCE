@@ -1,4 +1,4 @@
-# 🛒 E-Commerce REST API
+#  E-Commerce REST API
 
 Une API RESTful robuste et scalable pour la gestion d'une plateforme de commerce en ligne, développée avec **Node.js**, **Express** et **MySQL**.
 
